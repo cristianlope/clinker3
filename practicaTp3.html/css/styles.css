@@ -91,7 +91,8 @@ main{
     position: absolute;
     bottom: 200px;
     height: 200px;
-    left: 600px;     
+    left: 600px;  
+    
 }
 
 main h1{
@@ -147,4 +148,7 @@ img logoclinker1{
     text-align: center;
     
 }
-
+.contenedor1{
+    flex-direction: row;
+    justify-content: flex-end;
+}
